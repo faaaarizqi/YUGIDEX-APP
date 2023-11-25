@@ -29,6 +29,12 @@
     transition: all 0.3s;
 }
 
+.card img {
+    /* height: fit-content; */
+    width: 320px;
+    border-radius: 10px;
+}
+
 
 .card-info {
     height: -moz-fit-content;
